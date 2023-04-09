@@ -42,3 +42,24 @@ sudo systemctl start nessusd.service
 
 ![Screenshot from 2023-04-09 10-06-54](https://user-images.githubusercontent.com/70995581/230767100-26e448f7-a614-4690-bce8-3146127aa8b6.png)
 >**Note**: Make sure you have a active internet connection to download plugins, do not select `Register Offline`. Select `Continue`.
+- Select `Register for Nessus Essentials > Continue`.
+
+![Screenshot from 2023-04-09 10-07-07](https://user-images.githubusercontent.com/70995581/230768011-eeeb2f67-2b29-4ffe-9ac7-84113887c023.png)
+
+- Enter your Activation Code from earlier.
+
+![Screenshot from 2023-04-09 16-08-41](https://user-images.githubusercontent.com/70995581/230767937-c436baad-45ae-4c75-8f2d-b102633f41fd.png)
+- Create new Nessus `username` and `password`
+
+![Screenshot from 2023-04-09 10-15-51](https://user-images.githubusercontent.com/70995581/230768087-e3d61f3a-00d2-4e95-b170-018a66577646.png)
+- Wait few moments for the necessary plugins to be downloaded.
+ 
+ ![Screenshot from 2023-04-09 10-16-13](https://user-images.githubusercontent.com/70995581/230768165-25b2255e-a451-4efd-9a6c-79c78f55c970.png)
+- Nessus:
+
+![Screenshot from 2023-04-09 11-25-32](https://user-images.githubusercontent.com/70995581/230768279-a56ca701-a35f-4281-bf6b-27e1c4f24feb.png)
+
+- Create a new scan:
+
+![Screenshot from 2023-04-09 11-25-45](https://user-images.githubusercontent.com/70995581/230768240-b751967f-a38e-42bb-8ec7-db6c191125b8.png)
+
