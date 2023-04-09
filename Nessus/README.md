@@ -41,4 +41,4 @@ sudo systemctl start nessusd.service
 - Configure Nessus.
 
 ![Screenshot from 2023-04-09 10-06-54](https://user-images.githubusercontent.com/70995581/230767100-26e448f7-a614-4690-bce8-3146127aa8b6.png)
->**Note**: Make sure you have a active internet connection to download plugins, do not select `Register Offline`.
+>**Note**: Make sure you have a active internet connection to download plugins, do not select `Register Offline`. Select `Continue`.
