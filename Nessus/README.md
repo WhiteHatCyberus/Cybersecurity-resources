@@ -1,7 +1,9 @@
 # Nessus - Vulnerability Scanner
 
-- Nessus is a popular network host scanner used by cybersecurity personnel to detect, analyse and mitigate various vulnerabilities in the network architecture of the target host.
+- Nessus is a popular network host scanner used by cybersecurity personnel to detect, analyze and mitigate various vulnerabilities in the network architecture of the target host.
 - Nessus Essentials is the free version of Nessus that can be used to scan 16 hosts. If you want more access to advanced features and more hosts, you can buy the paid `Expert` and `Professional` version.
+
+![nessus](https://user-images.githubusercontent.com/70995581/230767302-49d2c28c-ad09-4894-a918-1cc136828129.png)
 
 # Installation
 
