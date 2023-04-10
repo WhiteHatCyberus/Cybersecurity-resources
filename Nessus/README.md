@@ -63,3 +63,13 @@ sudo systemctl start nessusd.service
 
 ![Screenshot from 2023-04-09 11-25-45](https://user-images.githubusercontent.com/70995581/230768240-b751967f-a38e-42bb-8ec7-db6c191125b8.png)
 
+# Uninstalling Nessus
+- Stop the running service 
+```bash
+sudo systemctl stop nessusd.service
+```
+- Remove packages and data
+```bash
+sudo dpkg -i nessus
+sudo rm -rf /opt/nessus
+```
