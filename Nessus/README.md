@@ -70,6 +70,6 @@ sudo systemctl stop nessusd.service
 ```
 - Remove packages and data
 ```bash
-sudo dpkg -i nessus
+sudo dpkg -r nessus
 sudo rm -rf /opt/nessus
 ```
